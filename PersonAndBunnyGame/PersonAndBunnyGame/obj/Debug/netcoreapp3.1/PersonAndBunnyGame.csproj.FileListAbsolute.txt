@@ -1,0 +1,14 @@
+C:\Users\Ерхан\Desktop\Проекти\PersonAndBunnyGame\PersonAndBunnyGame\bin\Debug\netcoreapp3.1\PersonAndBunnyGame.exe
+C:\Users\Ерхан\Desktop\Проекти\PersonAndBunnyGame\PersonAndBunnyGame\bin\Debug\netcoreapp3.1\PersonAndBunnyGame.deps.json
+C:\Users\Ерхан\Desktop\Проекти\PersonAndBunnyGame\PersonAndBunnyGame\bin\Debug\netcoreapp3.1\PersonAndBunnyGame.runtimeconfig.json
+C:\Users\Ерхан\Desktop\Проекти\PersonAndBunnyGame\PersonAndBunnyGame\bin\Debug\netcoreapp3.1\PersonAndBunnyGame.runtimeconfig.dev.json
+C:\Users\Ерхан\Desktop\Проекти\PersonAndBunnyGame\PersonAndBunnyGame\bin\Debug\netcoreapp3.1\PersonAndBunnyGame.dll
+C:\Users\Ерхан\Desktop\Проекти\PersonAndBunnyGame\PersonAndBunnyGame\bin\Debug\netcoreapp3.1\PersonAndBunnyGame.pdb
+C:\Users\Ерхан\Desktop\Проекти\PersonAndBunnyGame\PersonAndBunnyGame\obj\Debug\netcoreapp3.1\PersonAndBunnyGame.csproj.AssemblyReference.cache
+C:\Users\Ерхан\Desktop\Проекти\PersonAndBunnyGame\PersonAndBunnyGame\obj\Debug\netcoreapp3.1\PersonAndBunnyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ерхан\Desktop\Проекти\PersonAndBunnyGame\PersonAndBunnyGame\obj\Debug\netcoreapp3.1\PersonAndBunnyGame.AssemblyInfoInputs.cache
+C:\Users\Ерхан\Desktop\Проекти\PersonAndBunnyGame\PersonAndBunnyGame\obj\Debug\netcoreapp3.1\PersonAndBunnyGame.AssemblyInfo.cs
+C:\Users\Ерхан\Desktop\Проекти\PersonAndBunnyGame\PersonAndBunnyGame\obj\Debug\netcoreapp3.1\PersonAndBunnyGame.csproj.CoreCompileInputs.cache
+C:\Users\Ерхан\Desktop\Проекти\PersonAndBunnyGame\PersonAndBunnyGame\obj\Debug\netcoreapp3.1\PersonAndBunnyGame.dll
+C:\Users\Ерхан\Desktop\Проекти\PersonAndBunnyGame\PersonAndBunnyGame\obj\Debug\netcoreapp3.1\PersonAndBunnyGame.pdb
+C:\Users\Ерхан\Desktop\Проекти\PersonAndBunnyGame\PersonAndBunnyGame\obj\Debug\netcoreapp3.1\PersonAndBunnyGame.genruntimeconfig.cache
